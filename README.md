@@ -51,6 +51,6 @@ with a record of 353.
 data table, tweed_id 744234799360030481 recorded the highest number of favorite count with
 a total of 144235, while tweet_id 666102155909144576 has the least favorite count with a total
 of 66. 
-4.Finally, in the master data table, it was also observed that the tweet_id 749981277374128128 
+4. Finally, in the master data table, it was also observed that the tweet_id 749981277374128128 
 has the highest rating numerator with a rating total of 1776 while we have two tweet_ids 
 (835152434251116546 and 746906459439529985) with zero (0) rating numerator.
