@@ -1,6 +1,6 @@
 ## Image prediction project
 
-## About the project
+#### About the project
 This project was carried out by gathering three datasets from different data sources having different data formats, assessed the quality and tidiness of the datasets, and then cleaned it to make it analysis ready.
 
 #### Data Gathering Steps
